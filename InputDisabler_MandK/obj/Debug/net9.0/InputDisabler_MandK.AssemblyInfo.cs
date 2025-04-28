@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("InputDisabler_MandK")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a3bba0e9be346ed2aee1d338bf672f4c29e14393")]
 [assembly: System.Reflection.AssemblyProductAttribute("InputDisabler_MandK")]
 [assembly: System.Reflection.AssemblyTitleAttribute("InputDisabler_MandK")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

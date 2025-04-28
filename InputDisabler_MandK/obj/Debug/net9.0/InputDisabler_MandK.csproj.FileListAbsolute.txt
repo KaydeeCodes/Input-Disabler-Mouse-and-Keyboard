@@ -12,3 +12,4 @@
 /home/kaydee/RiderProjects/InputDisabler/InputDisabler_MandK/obj/Debug/net9.0/InputDisabler_MandK.pdb
 /home/kaydee/RiderProjects/InputDisabler/InputDisabler_MandK/obj/Debug/net9.0/InputDisabler_MandK.genruntimeconfig.cache
 /home/kaydee/RiderProjects/InputDisabler/InputDisabler_MandK/obj/Debug/net9.0/ref/InputDisabler_MandK.dll
+/home/kaydee/RiderProjects/InputDisabler/InputDisabler_MandK/obj/Debug/net9.0/InputDisabler_MandK.sourcelink.json
